@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "olber-db.zzz.com.ua"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. olber_DB</name>
+<name>ТЕСТ. Olber_DB</name>
 
 <description>
     База даних ГО Ольбери
@@ -38,54 +38,54 @@
 
 
 <platform name="android">
-    <icon src="res/android/icon/3d739a2984c844940178f36e99be676d.png" density="ldpi" />
-    <icon src="res/android/icon/1b0c155f78d5435d46d7fd8736dc3770.png" density="mdpi" />
-    <icon src="res/android/icon/a3964c456add293df4bd76867a501a20.png" density="hdpi" />
-    <icon src="res/android/icon/061cc196934cae5658438f1200387a57.png" density="xhdpi" />
-    <icon src="res/android/icon/1bb47b4b7e298b65744cda7680119070.png" density="xxhdpi" />
-    <icon src="res/android/icon/80973dc88b57b14b36a6cac10706bdeb.png" density="xxxhdpi" />
+    <icon src="res/android/icon/f9732182555f695bd1a59676afbd7afc.png" density="ldpi" />
+    <icon src="res/android/icon/30d0fab4f9c9fbc673a758a3f319f5f9.png" density="mdpi" />
+    <icon src="res/android/icon/d740f66f3ed1ae15daa17a64aa8ed52e.png" density="hdpi" />
+    <icon src="res/android/icon/6a385f25fbc92a186cddb4804bae640a.png" density="xhdpi" />
+    <icon src="res/android/icon/293f0de55ce657b59da3cba7f9d47fba.png" density="xxhdpi" />
+    <icon src="res/android/icon/a2d558f737e342d8c2c1650c1768b27d.png" density="xxxhdpi" />
 
-    <splash src="res/android/screen/1b60f06228b1b9fd9b81a74cba8ce452.png" density="port-hdpi"/>
-    <splash src="res/android/screen/ffbf84a29aae0d2d3500d413f9d6de97.png" density="port-ldpi"/>
-    <splash src="res/android/screen/88b0298a77f5aa7d580437c103cd65dd.png" density="port-mdpi"/>
-    <splash src="res/android/screen/cef33e723b1be899424fd1c0e373647c.png" density="port-xhdpi"/>
+    <splash src="res/android/screen/00c62869773aac10b79615084d3ff66f.png" density="port-hdpi"/>
+    <splash src="res/android/screen/4dd56f3b7fe9fcd8e97de663ecb33c40.png" density="port-ldpi"/>
+    <splash src="res/android/screen/3c994f116525229eb1f1ee69623a810d.png" density="port-mdpi"/>
+    <splash src="res/android/screen/4d17577e549f86346755e42933440c56.png" density="port-xhdpi"/>
 </platform>
 
 <platform name="ios">
-	<icon src="res/ios/icon/3ced205b07d6aa369620eb915959f236.png" width="180" height="180" />
-	<icon src="res/ios/icon/677a08c4fd4de14db4dd80073a5f9418.png" width="60" height="60" />
-	<icon src="res/ios/icon/0e86e98a987cd6c1cdc03fac512bf470.png" width="120" height="120" />
-	<icon src="res/ios/icon/22ad297259dfd842c490cc68fcddd40f.png" width="76" height="76" />
-	<icon src="res/ios/icon/9ddd754ff5f82c954940f121e508209b.png" width="152" height="152" />
-	<icon src="res/ios/icon/b794778cc35a36763c4141639386ad81.png" width="57" height="57" />
-	<icon src="res/ios/icon/796412878c43e46727a4ec8d8d7477d4.png" width="114" height="114" />
-	<icon src="res/ios/icon/7dddb679dc50e221f5584c3934fc23a4.png" width="72" height="72" />
-	<icon src="res/ios/icon/7ec07b665fdae2f645129bb200556727.png" width="144" height="144" />
-	<icon src="res/ios/icon/ca2f423da893f6357ed85b506a102b0b.png" width="167" height="167" />
-	<icon src="res/ios/icon/9c4c3a39f1f748ac6175da72bdfaecbf.png" width="29" height="29" />
-	<icon src="res/ios/icon/068d162d25910bdb7e2854ae0984168e.png" width="58" height="58" />
-	<icon src="res/ios/icon/f9accec5bd1d1830cbe8d5e3d3036045.png" width="87" height="87" />
-	<icon src="res/ios/icon/343bf6185280a129edcddc63ac96f2ac.png" width="167" height="167" />
+	<icon src="res/ios/icon/fa18440066e75febf96515b7cce61322.png" width="180" height="180" />
+	<icon src="res/ios/icon/0f8a9ee039426727eac69e89bb610779.png" width="60" height="60" />
+	<icon src="res/ios/icon/d991781a217b845a12e51baf4e771707.png" width="120" height="120" />
+	<icon src="res/ios/icon/151db155cbfdab4f3354dbd49508eebf.png" width="76" height="76" />
+	<icon src="res/ios/icon/282016973de381d9b31468b7c6048a0d.png" width="152" height="152" />
+	<icon src="res/ios/icon/d37080379c0d6a505fb82c19f9728aef.png" width="57" height="57" />
+	<icon src="res/ios/icon/e83813d9734843de71013dad55ba5970.png" width="114" height="114" />
+	<icon src="res/ios/icon/380e73d8c7d14aaef744909d4e29c9d3.png" width="72" height="72" />
+	<icon src="res/ios/icon/069a15ef66e701eb8cabd5924c8da127.png" width="144" height="144" />
+	<icon src="res/ios/icon/84a389ca4bfa54bf92aadbd6e0953212.png" width="167" height="167" />
+	<icon src="res/ios/icon/43b9990e138887176f6aeb6990c58da9.png" width="29" height="29" />
+	<icon src="res/ios/icon/759dd78edca4105ee87ab53b5816454d.png" width="58" height="58" />
+	<icon src="res/ios/icon/83f388de2caae573458f9ae08799cb64.png" width="87" height="87" />
+	<icon src="res/ios/icon/ce90b5290b6766fdd686230e348d0df0.png" width="167" height="167" />
 
-	<splash src="res/ios/screen/15a2ac069fa065473ccf5055cd1cfd8a.png" />
-    <splash src="res/ios/screen/4b9b52210a271de8554fc9b2a9092c4f.png" />
-    <splash src="res/ios/screen/3f33f3fe88d81ed7b381e3667251c653.png" />
-    <splash src="res/ios/screen/2abcf06ad5a4385a02beeb5a71283a28.png" />
-    <splash src="res/ios/screen/db89a244eeecd7019d464075cafff9c2.png" />
-    <splash src="res/ios/screen/cd17488fa9a9789d28f590b4dd0a08e9.png" />
+	<splash src="res/ios/screen/42c387ba8b43b7ff6e99b2f1d596fdbe.png" />
+    <splash src="res/ios/screen/88ab927d79856e0172c400ea94ace038.png" />
+    <splash src="res/ios/screen/89f2b6273ea7eaee21756d514741156f.png" />
+    <splash src="res/ios/screen/ae08c2ef3f4d8ace21e0631ca6820797.png" />
+    <splash src="res/ios/screen/5c4ce1733f5c9e1b2f0a9ffdd3d9d2a0.png" />
+    <splash src="res/ios/screen/23f193312647010f3807116757062add.png" />
 </platform>
 
 <platform name="winphone">
-    <icon src="res/windows/icon/13046b44b17879bd1aec4b9d84834f1b.png" target="StoreLogo" />
-    <icon src="res/windows/icon/3005ad8f8f2fd3b4f56ff9b3bf605be6.png" target="Square30x30Logo" />
-    <icon src="res/windows/icon/93bfdfa5fb6a337daf8e9656db0d8138.png" target="Square44x44Logo" />
-    <icon src="res/windows/icon/a8d9923dc875f669ad24a0dca23e9903.png" target="Square70x70Logo" />
-    <icon src="res/windows/icon/2a114e26f8a420824668f801b016061d.png" target="Square71x71Logo" />
-    <icon src="res/windows/icon/bf127c31bbe138f032d661626e8875f8.png" target="Square150x150Logo" />
-    <icon src="res/windows/icon/2b9ac6f9c4cd36887cacecb18f4fe453.png" target="Square310x310Logo" />
+    <icon src="res/windows/icon/e8eac69704a3355a2fef28bfee98a913.png" target="StoreLogo" />
+    <icon src="res/windows/icon/67f6b2c699dc514cc18053e2dcf66ae9.png" target="Square30x30Logo" />
+    <icon src="res/windows/icon/3755c2d4ab4cf1b99bca19689b559906.png" target="Square44x44Logo" />
+    <icon src="res/windows/icon/db5689ebbee702ff67209afd4570ce90.png" target="Square70x70Logo" />
+    <icon src="res/windows/icon/610ca8a63f1662050a970f54e947b937.png" target="Square71x71Logo" />
+    <icon src="res/windows/icon/4c14a5b24eb35b0816819dfc1ca8e423.png" target="Square150x150Logo" />
+    <icon src="res/windows/icon/e4b2af83b40ad8e54cfb45f5b1a362ce.png" target="Square310x310Logo" />
 
-    <splash src="res/windows/screen/52ae9a7879a88e2bfbcb97e3a4586d12.png" target="SplashScreen"/>
-    <splash src="res/windows/screen/23c0900f972935b59975aebe6a0aca74.png" target="SplashScreenPhone"/>
+    <splash src="res/windows/screen/094435ea3d5963d928cab15c7e25ca66.png" target="SplashScreen"/>
+    <splash src="res/windows/screen/e044642a2d66afab00ebed10a9d9c6db.png" target="SplashScreenPhone"/>
 </platform>
 
 <access origin='*'/> 
